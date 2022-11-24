@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW-3.6</string>
+    <string name="now_playing">Now playing</string>
+    <string name="talk_me_down">Talk Me Down</string>
+    <string name="blue_neighbourhood">Blue Neighbourhood</string>
+    <string name="music_name">music_name</string>
+    <string name="artist">artist</string>
+    <string name="time">time</string>
+    <string name="index">0</string>
+
+</resources>
